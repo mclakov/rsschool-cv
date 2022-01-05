@@ -31,3 +31,7 @@
   <span>}</span>
 </code>
 <h3>Languages:</h3>
+<ul>
+  <li>Russian - Native</li>
+  <li>English - B1</li>
+</ul>
