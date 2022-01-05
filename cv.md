@@ -3,7 +3,7 @@
 
 <h3>Contact information:</h3>
 <p>
-  <stromg>Phone: +7 999 111 4343</strong><br>
+  <stromg>Phone: +79991114343</strong><br>
   <stromg>E-mail: mclakov@gmail.com</strong><br>
   <stromg>Telegram: @mclakov</strong>
 </p>
